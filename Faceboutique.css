@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'kg_defying_gravityregular';
+    src: url('webfonts/kgdefyinggravity-webfont.eot');
+    src: url('webfonts/kgdefyinggravity-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfonts/kgdefyinggravity-webfont.woff') format('woff'),
+         url('webfonts/kgdefyinggravity-webfont.ttf') format('truetype'),
+         url('webfonts/kgdefyinggravity-webfont.svg#kg_defying_gravityregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'opificioregular';
+    src: url('webfonts/opificio-webfont.eot');
+    src: url('webfonts/opificio-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfonts/opificio-webfont.woff') format('woff'),
+         url('webfonts/opificio-webfont.ttf') format('truetype'),
+         url('webfonts/opificio-webfont.svg#opificioregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+#H1
+{
+	font-family:kg_defying_gravityregular;
+	font-size:400%;
+	color:#fff8dc;
+	line-height:50px;
+	text-align:center;
+}
+
+#H2
+{
+	font-family:opificioregular;
+	font-size:130%;
+	color:#fff8dc;
+	line-height:15px;
+	text-align:center;
+}
+
+#H3
+{
+	font-family:opificioregular;
+	font-size:120%;
+	color:#fff8dc;
+	line-height:15px;
+	text-align:center;
+}
